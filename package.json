@@ -3,6 +3,10 @@
   "version": "0.0.0-development",
   "private": false,
   "description": "TypeScript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vvo/typescript-library-template.git"
+  },
   "license": "MIT",
   "author": "Vincent Voyer <vincent@codeagain.com>",
   "sideEffects": false,
