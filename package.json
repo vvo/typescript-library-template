@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "4.1.1",
     "@typescript-eslint/parser": "4.1.1",
     "eslint-plugin-import": "2.22.0",
-    "eslint-plugin-jest": "24.0.1",
+    "eslint-plugin-jest": "24.0.2",
     "prettier-plugin-packagejson": "2.2.5",
     "semantic-release": "17.1.2",
     "semantic-release-cli": "5.4.0",
