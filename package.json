@@ -32,8 +32,8 @@
     "trailingComma": "all"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "4.15.1",
-    "@typescript-eslint/parser": "4.15.1",
+    "@typescript-eslint/eslint-plugin": "4.15.2",
+    "@typescript-eslint/parser": "4.15.2",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-jest": "24.1.5",
     "prettier-plugin-packagejson": "2.2.10",
